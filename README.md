@@ -39,3 +39,15 @@ npm run dev
 ## Próximo paso recomendado
 
 Implementar frontend de HU-01 (pantalla login + rutas protegidas) y conectar con los endpoints ya disponibles en backend.
+
+## Generar carpeta para descarga
+
+Si quieres una copia del proyecto lista para descargar, ejecuta:
+
+```bash
+./scripts/create-download-folder.sh
+```
+
+Esto genera la carpeta:
+
+- `downloads/DataPet-download/`
