@@ -1,3 +1,6 @@
 # Build/download artifacts
 downloads/DataPet-download/
 backend/node_modules/
+
+# Variables de entorno (credenciales - NO subir a GitHub)
+backend/.env
